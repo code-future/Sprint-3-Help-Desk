@@ -15,3 +15,7 @@
 - Use web sockets instead of AJAX
 - Find a way to upload and send images
 
+### Resources:
+- [jQuery AJAX](https://learn.jquery.com/ajax/jquery-ajax-methods/)
+- [Sprint Slides](https://slides.com/zacklee/help-desk-sprint)
+- [Bootstrap](http://getbootstrap.com/components)
