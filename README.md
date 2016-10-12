@@ -8,6 +8,7 @@
 
 ### Sprint Topics:
 - AJAX
+- REST/API's
 - jQuery
 - Databases
 
@@ -15,3 +16,9 @@
 - Use web sockets instead of AJAX
 - Find a way to upload and send images
 
+### Resources:
+- [jQuery AJAX](https://learn.jquery.com/ajax/jquery-ajax-methods/)
+- [Sprint Slides](https://slides.com/zacklee/help-desk-sprint)
+- [Bootstrap](http://getbootstrap.com/components)
+- [Postman](https://www.getpostman.com/) is a useful tool for checking API's
+- [REST Cheatsheet](http://www.restapitutorial.com/lessons/restquicktips.html)

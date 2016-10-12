@@ -1,0 +1,26 @@
+{
+  "name": "Sprint-3-Help-Desk",
+  "version": "1.0.0",
+  "description": "#### In this Sprint, we will build a help desk to quickly communicate with instructors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-future/Sprint-3-Help-Desk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code-future/Sprint-3-Help-Desk/issues"
+  },
+  "homepage": "https://github.com/code-future/Sprint-3-Help-Desk#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "morgan": "^1.7.0",
+    "path": "^0.12.7"
+  }
+}
