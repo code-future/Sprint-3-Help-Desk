@@ -9,12 +9,15 @@
 
 /* Use $.ajax for the AJAX call:
 $.ajax({
-  url: 'https://obscure-badlands-63588.herokuapp.com/chat/student'
+  url: 'https://obscure-badlands-63588.herokuapp.com/chat/student',
+  data: { message: ... }
 }).done(function(response) {
-  //Display the instructors response...
+  //response = success or fail?
 })
 */
 
 /* ---------------------------------------------------------------------------- */
 
 //How can we keep a history of our chats?
+
+//GET endpoint for all chats: https://obscure-badlands-63588.herokuapp.com/chat/student/sam
